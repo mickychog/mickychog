@@ -1,5 +1,7 @@
 <h2 align="left">Hi 👋! My name is Miguel and I'm a fullstack developer, from Bolivia</h2>
 
+[![ProfileViews](https://komarev.com/ghpvc/?username=mickychog&color=green&style=flat-square&label=Perfil+Visitado)](https://komarev.com/ghpvc/?username=mickychog)
+
 ###
 
 <div align="center">
